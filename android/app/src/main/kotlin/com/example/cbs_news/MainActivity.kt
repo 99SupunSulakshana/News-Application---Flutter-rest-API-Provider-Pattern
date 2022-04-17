@@ -1,0 +1,6 @@
+package com.example.cbs_news
+
+import io.flutter.embedding.android.FlutterActivity
+
+class MainActivity: FlutterActivity() {
+}
